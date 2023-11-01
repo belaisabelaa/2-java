@@ -13,13 +13,13 @@ body {
   justify-content: center;
   flex-direction: column;
   font-family: 'Montserrat', sans-serif;
-  min-height: 100vh;
+  min-height: 50vh;
 }
 
 h1 {
   color: var(--branca);
-  margin-bottom: 20px;
-  font-size: 2rem;
+  margin-bottom: 30px;
+  font-size: 8rem;
 }
 
 .teclado {
