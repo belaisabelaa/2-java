@@ -18,18 +18,18 @@ body {
 
 h1 {
   color: var(--branca);
-  margin-bottom: 30px;
-  font-size: 8rem;
+  margin-bottom: 20px;
+  font-size: 6rem;
 }
 
 .teclado {
   background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%);
-  box-shadow: 6px 8px 0 6px #58533f, 10px 10px 10px #6e3100;
+  box-shadow: 3px 5px 0 5px #58533f, 10px 10px 10px #6e3100;
   border-radius: 30px;
   display: grid;
-  gap: 15px;
+  gap: 10px;
   grid-template-columns: repeat(3, 1fr);
-  padding: 15px;
+  padding: 10px;
 }
 
 .tecla {
